@@ -1,0 +1,24 @@
+title: Ruben David P G
+description: Personal website of Ruben David Parga Garcia
+language: es
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ruben-david-p-g.github.io"
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Author settings
+author:
+  name: Ruben David P G
+
+# Social links
+social:
+  github: Ruben-David-P-G
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
